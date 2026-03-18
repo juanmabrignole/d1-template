@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d1516a81-94be-4d2a-9230-9708c2283ea3",
+			"database_name": "krak-agentes"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
